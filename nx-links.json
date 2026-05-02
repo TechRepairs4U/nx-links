@@ -1,8 +1,7 @@
 {
     "cfws": {
         "Atmosphere": {
-            "HATS.22.1.0.MM.zip": "https://api.github.com/repos/TechRepairs4U/HATS/releases/latest"
-        }
+            "HATS.22.1.0.MM.zip": "https://github.com/TechRepairs4U/HATS/releases/download/HATS-22.1.0/HATS.22.1.0.MM.zip"
     },
     "firmwares": {
         "[mega.nz] Firmware 22.1.0": "https://mega.nz/file/qEs20TgI#JOx5ZvJFBK7IRxHSMfYqZBUm-RF2T46hNA832_7gK8U",
