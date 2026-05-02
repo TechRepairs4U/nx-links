@@ -6,11 +6,6 @@
     "cfws": {
         "Atmosphere": {
             "atmosphere-1.11.1-master-d04c20a04+hbl-2.4.5+hbmenu-3.6.1.zip": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.11.1/atmosphere-1.11.1-master-d04c20a04%2Bhbl-2.4.5%2Bhbmenu-3.6.1.zip"
-        },
-        "DeepSea": {
-            "deepsea-advanced_v4.15.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.15.0/deepsea-advanced_v4.15.0.zip",
-            "deepsea-minimal_v4.15.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.15.0/deepsea-minimal_v4.15.0.zip",
-            "deepsea-normal_v4.15.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.15.0/deepsea-normal_v4.15.0.zip"
         }
     },
     "hekate": {
